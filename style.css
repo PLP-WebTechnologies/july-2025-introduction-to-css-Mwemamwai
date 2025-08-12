@@ -1,0 +1,60 @@
+h1{
+color: blue;
+text-decoration: underline;
+}
+p{
+    color: goldenrod;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+#header-1{
+    color: rgb(16, 16, 3);
+    font-weight: bolder;
+    font-size: 30px;
+    text-transform:uppercase;
+
+}
+
+.jmm{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50;
+    background-color:rgb(93, 6, 6);
+    background-size: auto;
+    letter-spacing: 2px;
+    
+    text-transform: uppercase;
+
+}
+
+*{
+    text-align:left;
+}
+.bx-95{
+    width: 200px;
+    height: 200px;
+    background-color: greenyellow;
+    margin:45px;
+    padding: 30px;
+    border: 3px black;
+}
+
+.bx-33{
+    width: 400;
+    height: 300;
+    background-color: black;
+    padding: 10px;
+    border:50px red ;
+    margin: 10px;
+}
+
+#bx{
+    width: 100;
+    height: 100;
+    background-color: blue;
+    text-align: justify;
+    word-spacing: 6px;
+    padding: 1px;
+    margin:1
+    2px;
+    border:30px white ;
+}

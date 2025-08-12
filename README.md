@@ -3,7 +3,7 @@
 
 ## Overview
 
-This assignment introduces you to the foundational principles of CSS—how to style web content, apply essential styling properties, and understand the powerful concept of the CSS Box Model. You’ll practice writing clean, organized CSS that brings structure and visual appeal to an HTML page.
+This assignment introduces you to the , apply essential styling properties, and understand the powerful concept of the CSS Box Model. You’ll practice writing clean, organized CSS that brings structure and visual appeal to an HTML page.
 
 ## Objective
 
